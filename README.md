@@ -94,6 +94,7 @@ void loop()
 # Output:
 <img width="1600" height="731" alt="WhatsApp Image 2026-09-22 at 6 51 19 PM" src="https://github.com/user-attachments/assets/e7af7ff2-1e9c-48ee-89dd-e6389eff5f1c" />
 <img width="1213" height="566" alt="image" src="https://github.com/user-attachments/assets/0dd99f25-4bad-42d1-bac5-e349e34ac912" />
+<img width="731" height="1600" alt="WhatsApp Image 2026-09-26 at 10 32 18 AM" src="https://github.com/user-attachments/assets/a8eb573e-0587-4975-90be-729f26a264db" />
 
 
 
